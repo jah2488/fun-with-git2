@@ -1,1 +1,3 @@
-Git is cool
+Git is cool-ish
+
+Git can be a bit confusing at first
